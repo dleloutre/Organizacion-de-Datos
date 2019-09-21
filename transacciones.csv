@@ -1,0 +1,8 @@
+transaction_id,timestamp,vehicle_model_id,price
+1,11,a,1000
+2,11,b,2000
+3,11,c,4355
+4,11,d,3543
+5,11,e,134
+6,11,f,786
+7,11,g,5475
