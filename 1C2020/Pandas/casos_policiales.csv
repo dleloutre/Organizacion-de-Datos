@@ -1,0 +1,11 @@
+fecha,id_caso,descripcion,estado_caso,categoria,latitud,longitud
+2019-05-25,1,nosenose,1,robo,13,43
+2019-06-26,2,nosenose,2,robo,124,12
+2019-05-04,3,nosenose,3,estafa,124,543
+2019-07-23,4,nosenose,1,homicidio,123,543
+2020-06-22,5,nosenose,2,robo,234,123
+2019-05-15,6,nosenose,3,homicidio,123,523
+2020-05-17,7,nosenose,1,estafa,543,23
+2019-06-20,8,nosenose,2,robo,123,134
+2020-07-21,9,nosenose,3,estafa,54,14
+2020-08-22,11,nosenose,1,homicidio,132,432
